@@ -24,7 +24,7 @@ double nota4 = double.tryParse(input4 ?? '') ?? 0.0;
 
 double media = (nota1 + nota2 + nota3 + nota4)/4;
 
-print("A média entre as quatro notas resulta em = ${media}");
+print("A média entre as quatro notas resulta em = $media");
 
 
 

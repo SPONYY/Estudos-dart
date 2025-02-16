@@ -37,7 +37,7 @@ void main(){
 
   double valorTotal = latasAComprar * valorLata;
 
-  print("Para pintar ${espacoPintar.toStringAsFixed(2)}m², serão necessárias ${latasAComprar} latas de tinta, o que resultam em R\$${valorTotal.toStringAsFixed(2)}!!!");
+  print("Para pintar ${espacoPintar.toStringAsFixed(2)}m², serão necessárias $latasAComprar latas de tinta, o que resultam em R\$${valorTotal.toStringAsFixed(2)}!!!");
 
 
 }

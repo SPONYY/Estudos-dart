@@ -59,7 +59,7 @@ void main(){
   print('''
 
     De acordo com seu valor hora (R\$${valorHora.toStringAsFixed(2)}) 
-    e horas trabalhadas no mês (${horasTrabalhadas} Horas), 
+    e horas trabalhadas no mês ($horasTrabalhadas Horas), 
     seu salário líquido será de:
     
     + Salário Bruto : R\$${salarioBruto.toStringAsFixed(2)}

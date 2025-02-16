@@ -14,6 +14,6 @@ void main(){
 
   double fahrenheit = (celcius *9/5) + 32;
 
-  print("Com base na temperatura em graus celcius fornecida, estão ${fahrenheit}ºF");
+  print("Com base na temperatura em graus celcius fornecida, estão $fahrenheitºF");
 
 }

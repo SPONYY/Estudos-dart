@@ -14,7 +14,7 @@ double numero2 = double.tryParse(input2 ?? '') ?? 0.0;
 
 double soma = numero1 + numero2;
 
-print("A soma dos números fornecidos é igual a ${soma}");
+print("A soma dos números fornecidos é igual a $soma");
 
 
 }

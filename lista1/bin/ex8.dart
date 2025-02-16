@@ -20,7 +20,7 @@ void main(){
     
   } else {
     int salario = valorHora * horasTrabalhadas;
-    print("Com base no seu valor hora e suas horas trabalhadas, seu salário sera = ${salario} reais");
+    print("Com base no seu valor hora e suas horas trabalhadas, seu salário sera = $salario reais");
 
   }
 
