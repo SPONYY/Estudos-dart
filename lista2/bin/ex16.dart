@@ -1,4 +1,5 @@
 import 'dart:io';
+import 'dart:math';
 
 void main() {
   //   Faça um programa que calcule as raízes de uma equação do segundo grau, na forma ax2 + bx + c.
@@ -32,6 +33,8 @@ void main() {
 
     numeros.add(valor2e3);
   }
+
+  double delta = pow(numeros[1], 2);
 
   print(numeros);
 }
